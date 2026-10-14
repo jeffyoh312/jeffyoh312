@@ -2,20 +2,16 @@
   <img src="./assets/man.png" alt="Profile banner" width="100%" />
 </p>
 
-<h1 align="center">Khaled (Not the real Bruce Wayne)</h1>
+<h1 align="center">Khaled (possibly the real Bruce Wayne)</h1>
 
 <p align="center">
-  <code>BUILDING · LEARNING · ITERATING</code>
+  <code>Version 2026</code>
 </p>
 
 <p align="center">
   Aspiring Entrepreneur &amp; AI/Data Engineer
   <br />
   BSc (Hons) Software Engineering @ Sunway-Lancaster University
-</p>
-
-<p align="center">
-  Interested in turning ideas into useful products through software, data, and AI.
 </p>
 
 <p align="center">
