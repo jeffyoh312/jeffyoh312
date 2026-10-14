@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/Banner.png" alt="Batman profile banner" width="100%" />
+  <img src="./assets/Banner.png" alt="Khaled Morshed Banner" width="100%" />
 </p>
 
-<h1 align="center">Khaled (possibly the real Bruce Wayne)</h1>
+<h1 align="center">Khaled</h1>
 
 <p align="center">
   <code>Version 2026</code>
