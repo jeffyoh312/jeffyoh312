@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/man.png" alt="Profile banner" width="100%" />
+  <img src="./assets/man.png" alt="Batman profile banner" width="100%" />
 </p>
 
 <h1 align="center">Khaled (possibly the real Bruce Wayne)</h1>
@@ -11,16 +11,24 @@
 <p align="center">
   Aspiring Entrepreneur &amp; AI/Data Engineer
   <br />
-  BSc (Hons) Software Engineering @ Sunway & Lancaster University
+  BSc (Hons) Software Engineering @ Sunway &amp; Lancaster University
 </p>
 
 <p align="center">
   <a href="mailto:khaledmorshedac@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" />
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="Email"
+      width="40"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/khaledmorshedac/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="40"
+    />
   </a>
 </p>
 
@@ -63,4 +71,16 @@
   <sub>Also working with SQL · Oracle Database · Oracle APEX</sub>
 </p>
 
+<h2 align="center">Building Gotham</h2>
 
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="My GitHub contributions as an animated 3D skyline"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>The city needs me</sub>
+</p>
