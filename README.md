@@ -11,15 +11,15 @@
 <p align="center">
   Aspiring Entrepreneur &amp; AI/Data Engineer
   <br />
-  BSc (Hons) Software Engineering @ Sunway-Lancaster University
+  BSc (Hons) Software Engineering @ Sunway & Lancaster University
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:khaledmorshedac@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  <a href="https://www.linkedin.com/in/khaledmorshedac/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
 </p>
@@ -62,3 +62,5 @@
 <p align="center">
   <sub>Also working with SQL · Oracle Database · Oracle APEX</sub>
 </p>
+
+
