@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Batman profile banner" width="100%" />
+  <img src="./assets/Banner.png" alt="Batman profile banner" width="100%" />
 </p>
 
 <h1 align="center">Khaled (possibly the real Bruce Wayne)</h1>
