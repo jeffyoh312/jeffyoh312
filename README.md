@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.png" alt="Khaled Morshed Banner" width="100%" />
+  <img src="./assets/Banner2.png" alt="Khaled Morshed Banner" width="100%" />
 </p>
 
 <h1 align="center">Khaled</h1>
