@@ -28,6 +28,8 @@
 <p align="center"><strong>Frameworks &amp; Databases</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,tailwind,mysql&amp;theme=dark&amp;perline=6" alt="React, Next.js, Node.js, Django, Tailwind CSS, MySQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/airtable/18BFFF" alt="Airtable" width="48" height="48" />
 </p>
 
 <p align="center"><strong>Cloud &amp; Tools</strong></p>
