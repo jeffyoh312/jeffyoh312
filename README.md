@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner2.png" alt="Banner" width="100%" />
+  <img src="./assets/man.png" alt="Batman Banner" width="100%" />
 </p>
 
 <h1 align="center">Khaled (possibly the real Bruce Wayne)</h1>
@@ -35,7 +35,3 @@
 </p>
 
 <p align="center"><sub>Also working with SQL · Oracle Database · Oracle APEX</sub></p>
-
-<p align="center">
-  <img src="./assets/contribution-city.svg" alt="My daily GitHub contributions as a compact isometric city" width="100%" />
-</p>
