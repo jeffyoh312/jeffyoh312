@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./assets/man.png" alt="Batman Banner" width="100%" />
 </p>
@@ -21,17 +22,19 @@
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css&amp;theme=dark&amp;perline=6" alt="Python, Java, JavaScript, TypeScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,bash&amp;theme=dark&amp;perline=7" alt="Python, Java, JavaScript, TypeScript, HTML, CSS, Bash" />
 </p>
 
 <p align="center"><strong>Frameworks &amp; Databases</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,mysql&amp;theme=dark&amp;perline=5" alt="React, Next.js, Node.js, Django, MySQL" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,tailwind,mysql&amp;theme=dark&amp;perline=6" alt="React, Next.js, Node.js, Django, Tailwind CSS, MySQL" />
 </p>
 
 <p align="center"><strong>Cloud &amp; Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,git,github,vscode&amp;theme=dark&amp;perline=6" alt="Google Cloud, AWS, Vercel, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,docker,git,github&amp;theme=dark&amp;perline=7" alt="Google Cloud, AWS, Cloudflare, Vercel, Docker, Git, GitHub" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48" height="48" />
 </p>
 
 <p align="center"><sub>Also working with SQL · Oracle Database · Oracle APEX</sub></p>
