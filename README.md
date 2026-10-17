@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:khaledmorshedac@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khaledmorshedac/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+<a href="mailto:khaledmorshedac@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaledmorshedac/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+<a href="https://khaledos.vercel.app/"><img src="https://skillicons.dev/icons?i=wordpress" alt="LinkedIn" width="40" /></a>
 </p>
 
 <h2 align="center">Stack</h2>
