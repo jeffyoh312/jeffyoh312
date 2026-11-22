@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,docker,git,github&amp;theme=dark&amp;perline=7" alt="Google Cloud, AWS, Cloudflare, Vercel, Docker, Git, GitHub" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48" height="48" />
 </p>
 
 <p align="center"><sub>Also working with SQL · Oracle Database · Oracle APEX</sub></p>
