@@ -8,7 +8,7 @@
 <p align="center"><code>Version 2026</code></p>
 
 <p align="center">
-  Aspiring Entrepreneur &amp; AI/Data Engineer<br />
+  Aspiring Entrepreneur &amp; AI/FS Engineer<br />
   BSc (Hons) Software Engineering @ Sunway &amp; Lancaster University
 </p>
 
