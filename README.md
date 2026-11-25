@@ -34,7 +34,7 @@
 
 <p align="center"><strong>Cloud &amp; Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,docker,git,github&amp;theme=dark&amp;perline=7" alt="Google Cloud, AWS, Cloudflare, Vercel, Docker, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,docker,git&amp;theme=dark&amp;perline=7" alt="Google Cloud, AWS, Cloudflare, Vercel, Docker, Git" />
   &nbsp;
 </p>
 
